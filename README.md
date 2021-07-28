@@ -14,10 +14,10 @@ This project was built for a social network web application where users can shar
 - npm install mongoose --save
 
 ## Demo
-- Screenshots
+### Screenshots
 ![NoSqlApi](https://user-images.githubusercontent.com/74946954/127280384-ac1f05dc-72ad-4610-be3d-c735a2958eb6.png)
 
-- Walkthough
+### Walkthough
 
 ## Contributors
 [Ritchie Ortiz](https://github.com/xRitchie91)
