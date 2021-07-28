@@ -18,7 +18,7 @@ This project was built for a social network web application where users can shar
 ![NoSqlApi](https://user-images.githubusercontent.com/74946954/127280384-ac1f05dc-72ad-4610-be3d-c735a2958eb6.png)
 
 ### Walkthough
-[Part 1](https://drive.google.com/file/d/1suW3ehovd5aQSRpHkPVEGliLK9bdK4Nf/view)
+- [Part 1](https://drive.google.com/file/d/1suW3ehovd5aQSRpHkPVEGliLK9bdK4Nf/view)
 
 ## Contributors
 - [Ritchie Ortiz](https://github.com/xRitchie91)
