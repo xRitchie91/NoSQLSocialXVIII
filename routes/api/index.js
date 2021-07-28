@@ -1,8 +1,9 @@
+// with friends like these who needs dependencies? you, thats who.
 const router = require('express').Router();
-const thoughtRoutes = require('./thought-routes');
-const userRoutes = require('./user-routes');
+const thoughtRts = require('./thought-routes');
+const userRts = require('./user-routes');
 
-router.use('/thoughts', thoughtRoutes);
-router.use('/users', userRoutes);
+router.use('/thoughts', thoughtRts);
+router.use('/users', userRts);
 
 module.exports = router;
