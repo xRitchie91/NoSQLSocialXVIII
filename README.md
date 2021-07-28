@@ -22,6 +22,7 @@ This project was built for a social network web application where users can shar
 ## Contributors
 - [Ritchie Ortiz](https://github.com/xRitchie91)
 - [Kyle McKinley](https://github.com/kjmckinley)
+- [Dakota Nelson](https://github.com/kotalilyy)
 - [Peter Martinez](https://github.com/pmarti53)
 
 ## Questions
