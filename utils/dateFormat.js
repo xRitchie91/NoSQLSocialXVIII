@@ -1,7 +1,7 @@
 const addDateSfx = date => {
     let dateStr = date.toString();
 
-    // get last char of date string
+    // get last char of string
     const lastChar = dateStr.charAt(dateStr.length - 1);
 
     if (lastChar === '1' && dateStr !== '11') {
@@ -17,13 +17,13 @@ const addDateSfx = date => {
     return dateStr;
 };
 
-// function to format a timestamp, accepts the timestamp and an `options` object as optional parameters
+// formats timestamp, accepts our timestamp and `options` object as optional
 module.exports = (
     timestamp,
     { monthLength = 'short', dateSuffix = true } = {}
 ) => {
     let months;
-
+// month short codes
     if (monthLength === 'short') {
         months = {
             0: 'Jan',
@@ -39,7 +39,8 @@ module.exports = (
             10: 'Nov',
             11: 'Dec'
         };
-    } else {
+        // month regular length codes
+    } else { 
         months = {
             0: 'January',
             1: 'February',
