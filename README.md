@@ -5,6 +5,7 @@ This project was built for a social network web application where users can shar
 ## Contents
 - [Usage](#Usage)
 - [Demo](#Demo)
+  - [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
 - [Questions](#Questions)
 
