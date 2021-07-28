@@ -1,22 +1,14 @@
 {
-  "name": "blogbookxiv",
+  "name": "nosqlsocialxviii",
   "version": "1.0.0",
-  "description": "- [Deployment](#Deployment)\r - [Usage](#Usage)\r - [Resources](#Contributions)\r - [Reach Out](#Questions)",
+  "description": "-",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xRitchie91/blogbookxiv.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xRitchie91/blogbookxiv/issues"
-  },
-  "homepage": "https://github.com/xRitchie91/blogbookxiv#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
