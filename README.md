@@ -20,9 +20,9 @@ This project was built for a social network web application where users can shar
 ### Walkthough
 
 ## Contributors
-[Ritchie Ortiz](https://github.com/xRitchie91)
-[Kyle McKinley](https://github.com/kjmckinley)
-[Peter Martinez](https://github.com/pmarti53)
+- [Ritchie Ortiz](https://github.com/xRitchie91)
+- [Kyle McKinley](https://github.com/kjmckinley)
+- [Peter Martinez](https://github.com/pmarti53)
 
 ## Questions
-Reach out [here](#https://github.com/xRitchie91)
+All questions reach out [here](#https://github.com/xRitchie91)
