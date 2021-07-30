@@ -13,7 +13,7 @@ This project was built for a social network web application where users can shar
 ## Usage
 - npm install 
 - npm install express
-- npm install mongoose --save
+- npm install mongoose
 
 ## Demo
 ### Screenshots
